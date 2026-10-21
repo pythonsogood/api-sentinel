@@ -1,0 +1,7 @@
+[package]
+name = "apisentinel"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+apisentinel-core = { path = "../apisentinel-core" }
