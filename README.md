@@ -41,6 +41,13 @@ pnpm run dev
 
 Open the URL printed by Vite. The current frontend is a SvelteKit scaffold. Packaging a single HTML report that opens offline remains an implementation milestone.
 
+## 📋 Project tracking
+
+Tasks, priorities, dependencies, and acceptance criteria are tracked in
+[YouTrack](https://apisentinel.youtrack.cloud/projects/API).
+
+The project is available for read-only review without signing in.
+
 ## 📚 Documentation
 
 | Document                                       | Contents                                                                                 |
@@ -49,3 +56,4 @@ Open the URL printed by Vite. The current frontend is a SvelteKit scaffold. Pack
 | [Architecture and scope](docs/ARCHITECTURE.md) | Components, technology direction, boundaries, evidence semantics, and repository layout. |
 | [Planned CLI](docs/CLI.md)                     | Intended commands, output behavior, and exit policy.                                     |
 | [Roadmap](docs/ROADMAP.md)                     | Development milestones, open decisions, and evaluation goals.                            |
+| [Pre-defense report](docs/Report.docx)         | Project rationale, requirements, architecture, prototype, and evaluation plan.           |
